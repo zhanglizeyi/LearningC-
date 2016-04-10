@@ -1,6 +1,6 @@
 #include <iostream>   //preprocessor
 
-using namespace std;  //
+using namespace std;  // lazy approach, all names avarlable 
 
 
 int main(){
